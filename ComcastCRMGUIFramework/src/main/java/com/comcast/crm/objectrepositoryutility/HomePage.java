@@ -80,6 +80,9 @@ public class HomePage {
 		
 		signoutlink.click();
 	}
+	public void clickOnPro() {
+		proLink.click();
+	}
 	
 	 
 
